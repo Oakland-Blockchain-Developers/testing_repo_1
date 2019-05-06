@@ -1,6 +1,5 @@
 # testing_repo
 When pushes are submitted to the master branch we listen
 
-
-Word world...
+Changes are coming...
 
